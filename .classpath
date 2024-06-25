@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="discovery-server/.mvn/wrapper"/>
+	<classpathentry kind="src" path="discovery-server/src/main/java"/>
+	<classpathentry kind="src" path="discovery-server/src/test/java"/>
+	<classpathentry kind="src" path="offre_emploi-MS/.mvn/wrapper"/>
+	<classpathentry kind="src" path="offre_emploi-MS/src/main/java"/>
+	<classpathentry kind="src" path="offre_emploi-MS/src/test/java"/>
+	<classpathentry kind="lib" path="discovery-server/target/discovery-service-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="offre_emploi-MS/target/candidates-service-twin4-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="offre_emploi-MS/target/classes"/>
+</classpath>
